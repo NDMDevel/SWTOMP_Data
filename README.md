@@ -1,6 +1,6 @@
 # Research data #
 
-## This repository contains raw data and MATLAB scripts that process and display the data ##
+This repository contains raw data and MATLAB scripts that process and display the data.
 
 # Usage #
 
